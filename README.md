@@ -1,0 +1,1 @@
+# Translation-Repository-of-the-Visual-Novel-Deluge-
