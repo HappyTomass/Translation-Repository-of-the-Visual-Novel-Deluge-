@@ -19996,7 +19996,7 @@ translate german p5Rc11_9e6ce651:
 translate german p5Rc11_03d96c9f:
 
     # r "The grapes of wrath have fully ripened — their vines bring forth an intoxicating fruit!"
-    r "Die Früchte des Zorns sind gereift — seine Reben werden eine berauschende Frucht hervorbringen!"
+    r "Die Früchte des Zorns sind endlich vollständig gereift — seine Reben werden eine berauschende Frucht hervorbringen!"
 
 # game/script.rpy:10760
 translate german p5Rc11_05ec4c10:
