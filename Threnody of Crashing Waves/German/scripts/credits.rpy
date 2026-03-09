@@ -1,11 +1,14 @@
 # German Translation
 Deutsche Übersetzung
 
-#1
+
+# main game and DLC:
+# Hauptspiel inklusive DLC:
 
 Tomass Kirsch
 
 
-#2
+# only the main game:
+nur das Hauptspiel:
 
 ibi_ms
