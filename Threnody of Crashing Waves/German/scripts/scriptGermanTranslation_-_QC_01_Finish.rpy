@@ -15772,7 +15772,7 @@ translate german p5Ic9_d3d21c1d:
 translate german p5Ic9_0d503849:
 
     # r "Well well, old man. You've been reading scripture? I didn't know they kept bibles in the type of hotels {i}you{/i} frequent."
-    r "Na, alter Mann. Hast du eine heilige Schrift vorgelesen? Ich wusste nicht, dass sich Bibeln in den Hotels, die {i}du{/i] besuchst, befänden."
+    r "Na, alter Mann. Hast du eine heilige Schrift vorgelesen? Ich wusste nicht, dass sich Bibeln in den Hotels, die {i}du{/i} besuchst, befänden."
 
 # game/script.rpy:8611
 translate german p5Ic9_424ba702:
@@ -20386,7 +20386,7 @@ translate german p5M1_72048cfe:
 translate german p5M1_8f807c2c:
 
     # r "Relationships we cannot {i}protect{/i} her from."
-    r "Beziehungen, vor die wir sie nicht {i}beschützen{/i] können."
+    r "Beziehungen, vor die wir sie nicht {i}beschützen{/i} können."
 
 # game/script.rpy:11029
 translate german p5M1_dbea8ec5:
@@ -27256,7 +27256,7 @@ translate german mBad_b3860c5a:
 translate german end_7c0c9da2:
 
     # "{i}press any key to continue{/i}"
-    "{i]Drücke eine beliebige Taste, um fortzufahren.{/i}"
+    "{i}Drücke eine beliebige Taste, um fortzufahren.{/i}"
 
 # game/script.rpy:14405
 translate german end_a3570397:
@@ -27564,7 +27564,7 @@ translate german strings:
 
     # game/script.rpy:7507
     old "Okay. {i}One{/i} last chance."
-    new "Okay. {i}Eine{/i] letzte Chance." #decision:13609 #next:13621
+    new "Okay. {i}Eine{/i} letzte Chance." #decision:13609 #next:13621
 
     # game/script.rpy:9688
     old "I trust you."
