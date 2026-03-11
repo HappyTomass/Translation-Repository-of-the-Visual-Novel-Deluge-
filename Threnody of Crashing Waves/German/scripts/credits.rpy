@@ -3,7 +3,7 @@ Deutsche Übersetzung
 
 
 # main game and DLC:
-# Hauptspiel inklusive DLC:
+Hauptspiel inklusive DLC:
 
 Tomass Kirsch
 
@@ -12,3 +12,4 @@ Tomass Kirsch
 nur das Hauptspiel:
 
 ibi_ms
+
