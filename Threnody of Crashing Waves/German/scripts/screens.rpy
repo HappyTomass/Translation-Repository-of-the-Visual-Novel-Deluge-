@@ -128,7 +128,7 @@ translate german strings:
 
     # game/screens.rpy:919
     old "Skip"
-    new "überspringen"
+    new "spulen"
 
     # game/screens.rpy:920
     old "Unseen Text"
@@ -148,7 +148,7 @@ translate german strings:
 
     # game/screens.rpy:927
     old "Auto"
-    new "Auto"
+    new "auto"
 
     # game/screens.rpy:940
     old "Text Speed"
@@ -328,7 +328,7 @@ translate german strings:
 
     # game/screens.rpy:1391
     old "Skipping"
-    new "überspringen"
+    new "spulen"
 
     # game/screens.rpy:1611
     old "Back"
