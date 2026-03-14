@@ -27340,11 +27340,11 @@ translate german strings:
 
     # game/script.rpy:352
     old "I had something more respectable in mind."
-    new "Ich hatte mir etwas Respektableres vorgestellt." #decision:265 #next:271
+    new "Ich hatte mir etwas respektableres vorgestellt." #decision:265 #next:271
 
     # game/script.rpy:352
     old "It's better than nothing. I'll take it."
-    new "Es ist besser als Nichts. Ich nehm ihn." #decision:265 #next:277
+    new "Es ist besser als nichts. Ich nehm ihn." #decision:265 #next:277
 
     # game/script.rpy:634
     old "Sure thing. I'll keep my eyes wide open."
