@@ -128,7 +128,7 @@ translate german strings:
 
     # renpy/common/00accessibility.rpy:267
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Das ist das Barrierefreiheitmenü. Nutzen Sie die Pfeiltasten, um die Benutzeroberfläche zu bedienen, und drücken Sie ENTER, um Tasten zu aktivieren."
+    new "Das ist das Barrierefreiheitmenü. Nutzen Sie die Pfeiltasten, um die Benutzeroberfläche zu bedienen, und drücken Sie ENTER, um alle anderen Tasten zu aktivieren."
 
     # renpy/common/00accessibility.rpy:288
     old "Self-Voicing and Audio"
@@ -140,7 +140,7 @@ translate german strings:
 
     # renpy/common/00accessibility.rpy:306
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Die Optionen in diesem Menü sind dafür gedacht, die Barrierefreiheit zu verbessern. Sie könnten nicht mit allen Spielen funktionieren, und manche Kombinationen von Optionen können das Spiel unspielbar machen. Das ist kein Fehler im Spiel oder im Engine. Für die besten Resultate sollte man, wenn man die Schriftart ändert, die originale Schriftgröße beibehalten."
+    new "Die Optionen in diesem Menü sind dafür gedacht, die Barrierefreiheit zu verbessern. Sie könnten nicht mit allen Spielen funktionieren und manche Kombinationen von Optionen können das Spiel unspielbar machen. Das ist kein Fehler im Spiel oder im Engine. Für die besten Resultate sollte man, wenn man die Schriftart ändert, die originale Schriftgröße beibehalten."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -1192,11 +1192,11 @@ translate german strings:
 
     # renpy/common/_errorhandling.rpym:839
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Das ignoriert den Ausnahme-Fehler, und erlaubt es, dass Sie weiterspielen können. Häufig führt das jedoch zu weiteren Fehlern."
+    new "Das ignoriert den Ausnahme-Fehler und erlaubt es, dass Sie weiterspielen können. Häufig führt das jedoch zu weiteren Fehlern."
 
     # renpy/common/_errorhandling.rpym:843
     old "Reload"
-    new "erneuz laden"
+    new "neu laden"
 
     # renpy/common/_errorhandling.rpym:845
     old "Reloads the game from disk, saving and restoring game state if possible."
