@@ -15292,7 +15292,7 @@ translate german p5Ic7_643fcbfa:
 translate german p5Ic7_620e2dba:
 
     # "Her voice sounded exasperated."
-    "Ihr Stimme klang verärgert."
+    "Ihr Stimme klang erschöpft."
 
 # game/script.rpy:8347
 translate german p5Ic7_0555fbb3:
@@ -27608,7 +27608,7 @@ translate german strings:
 
     # game/script.rpy:14421
     old "Exit game."
-    new "Zum Hauptmenü zurückkehren."
+    new "Kehre zum Hauptmenü zurück."
 
     # game/script.rpy:14440
     old "{i}enter debug menu?{/i}"
